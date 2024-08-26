@@ -1,0 +1,1 @@
+These are the codes I practiced to revise my Python and get use to industry standards & industry level coding practice. I also learned to properly document the codes and their respective updates or modifications.
